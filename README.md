@@ -1,4 +1,4 @@
-# 1WriteUpADay2022Challenge
+# WriteUps2022Challenge
 
 - Start day: Jan. 15,2022 (Try to catch up missing days if you can)
 - Write one writeup of ANYTHING even if its on your library already if you think you can elaborate it or can add more to it!
